@@ -1,0 +1,28 @@
+.form-group-lg {
+  font-weight: bolder !important;
+  margin-left: 100px;
+  font-size: large;
+  margin-top: 10px;
+  margin-right: 100px;
+}
+
+.sub_btn {
+  margin-left: 100px !important;
+  background-color: brown !important;
+  color: white !important;
+  font-size: 15px !important;
+  padding: 1px 18px !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+.form-control {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  cursor: pointer !important;
+}
